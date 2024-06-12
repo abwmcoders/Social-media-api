@@ -28,7 +28,7 @@ class PostResponse(BaseModel):   #PostBase:
     #id: int
     #created_at: datetime
 
-    # but for ordering sake i'm going to sprcify the order i want
+    # but for ordering sake i'm going to specify the order i want
     id: int
     title: str
     content: str
